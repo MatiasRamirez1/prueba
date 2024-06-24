@@ -1,3 +1,10 @@
+function mati() {
+  return {
+    nombre: "Matias",
+    edad: 23,
+    nacionalidad: "Argentina",
+  };
+}
 
 function fatima() {
   return {
@@ -22,4 +29,3 @@ function valentin (){
         nationality: 'Argentina',
     }
 }
-
