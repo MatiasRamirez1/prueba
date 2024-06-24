@@ -22,6 +22,15 @@ function laCajaDePandora(numero){
     }
 }
 
+
+function nahuel() {
+    return {
+        nombre: 'Nahuel',
+        apellido: 'Juarez',
+        edad: 31
+    }
+}
+
 function valentin (){
     return {
         name: 'Valentin',
@@ -29,3 +38,4 @@ function valentin (){
         nationality: 'Argentina',
     }
 }
+
