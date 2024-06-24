@@ -24,3 +24,13 @@ function laCajaDePandora(numero) {
 
 console.log(laCajaDePandora(2));
 console.log(laCajaDePandora(9));
+
+function miNombre() {
+  return {
+    nombre: "Juan",
+    edad: 19,
+    nacionalidad: "Argentino",
+  };
+}
+
+console.log(miNombre());
