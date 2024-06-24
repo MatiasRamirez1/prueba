@@ -1,3 +1,19 @@
+function mati() {
+  return {
+    nombre: "Matias",
+    edad: 23,
+    nacionalidad: "Argentina",
+  };
+}
+
+function fatima() {
+  return {
+    name: "Fátima",
+    age: 23,
+    nacionality: "Argentina,",
+  };
+}
+
 function laCajaDePandora(numero){
     if (numero % 2 === 0) {
         return numero.toString(2);
@@ -6,6 +22,7 @@ function laCajaDePandora(numero){
     }
 }
 
+
 function nahuel() {
     return {
         nombre: 'Nahuel',
@@ -13,3 +30,12 @@ function nahuel() {
         edad: 31
     }
 }
+
+function valentin (){
+    return {
+        name: 'Valentin',
+        age: 18,
+        nationality: 'Argentina',
+    }
+}
+
