@@ -1,3 +1,12 @@
+
+function fatima() {
+  return {
+    name: "Fátima",
+    age: 23,
+    nacionality: "Argentina,",
+  };
+}
+
 function laCajaDePandora(numero){
     if (numero % 2 === 0) {
         return numero.toString(2);
@@ -13,3 +22,4 @@ function valentin (){
         nationality: 'Argentina',
     }
 }
+
