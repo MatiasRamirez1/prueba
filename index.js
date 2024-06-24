@@ -6,3 +6,11 @@ function laCajaDePandora(numero) {
   }
   // proximamente escribiremos codigo aqui
 }
+
+function fatima() {
+  return {
+    name: "Fátima",
+    age: 23,
+    nacionality: "Argentina,",
+  };
+}
