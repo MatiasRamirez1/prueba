@@ -5,3 +5,11 @@ function laCajaDePandora(numero){
         return numero.toString(16);
     }
 }
+
+function valentin (){
+    return {
+        name: 'Valentin',
+        age: 18,
+        nationality: 'Argentina',
+    }
+}
