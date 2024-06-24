@@ -5,3 +5,11 @@ function laCajaDePandora(numero){
         return numero.toString(16);
     }
 }
+
+function nahuel() {
+    return {
+        nombre: 'Nahuel',
+        apellido: 'Juarez',
+        edad: 31
+    }
+}
